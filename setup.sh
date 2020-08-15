@@ -13,7 +13,7 @@ brew update
 brew install ansible
 
 # checkout repo
-git clone 
+git clone https://github.com/mannjaro/MyMac-ansible.git
 
 # exec ansible
 cd ${ANSIBLE_PATH}
