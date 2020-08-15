@@ -1,0 +1,30 @@
+homebrew_taps:
+  - homebrew/cask
+  # - homebrew/cask-font
+  - homebrew/core
+homebrew_packages:
+  - anyenv
+  - docker
+  - envchain
+  - fish
+  - gdb
+  - ghq
+  - git
+  - glib
+  - htop
+  - jpeg
+  - lazygit
+  - mas
+  - neovim
+  - openssl@1.1
+  - peco
+  - perl
+  - python@3.8
+  - readline
+  - ruby
+  - sqlite
+  - starship
+  - tmux
+  - tree
+  - vim
+  - xz

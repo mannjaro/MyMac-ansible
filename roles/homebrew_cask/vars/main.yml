@@ -1,0 +1,19 @@
+homebrew_cask_packages:
+  - alfred
+  - chromedriver
+  - discord
+  - docker
+  - discord
+  - dozer
+  - font-cica
+  - font-ricty-diminished
+  - font-source-han-code-jp
+  - google-chrome
+  - google-japanese-ime
+  - iterm2
+  - java
+  - jetbrains-toolbox
+  - mendeley
+  - slack
+  - unshaky
+  - visual-studio-code

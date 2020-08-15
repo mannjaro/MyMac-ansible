@@ -1,0 +1,8 @@
+mac_apps:
+  - { name: "Twitter", id: "1482454543"}
+  - { name: "Pages", id: "409201541"}
+  - { name: "Keynote", id: "409183694"}
+  - { name: "Slack", id: "803453959"}
+  - { name: "MenuBar Stats", id: "714196447"}
+  - { name: "Magnet", id: "441258766"}
+  - { name: "Numbers", id: "409203825"}

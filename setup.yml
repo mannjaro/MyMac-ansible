@@ -1,0 +1,11 @@
+---
+- hosts: localhost
+  connection: local
+  become: no
+  gather_facts: no
+  roles:
+    - homebrew
+    - homebrew_cask
+    - mas
+    - dotfiles
+    - vscode

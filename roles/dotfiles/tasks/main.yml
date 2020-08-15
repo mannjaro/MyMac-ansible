@@ -1,0 +1,8 @@
+- block:
+  - name: checkout dotfiles
+    git:
+      repo: https://github.com/mannjaro/dotfiles.git
+      dest: ~/.dotfiles
+  
+  tags:
+    dotfiles
