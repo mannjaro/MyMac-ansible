@@ -5,10 +5,12 @@
     register: installed_list
     check_mode: no
     changed_when: no
-  
-  # - name: echo list
-    # debug: 
-      # msg: "{{ installed_list }}"
+
+  - name: visual studio code basic settings
+    template:
+      src: settings.json
+      dest: "~/Library/Application Support/Code/User"
+      mode: 0644
 
   - name: visual studio code install extension
     raw: "code --install-extension {{ item }}"

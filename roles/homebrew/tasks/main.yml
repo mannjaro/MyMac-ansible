@@ -14,6 +14,7 @@
     homebrew:
       name: '{{ homebrew_packages }}'
       state: present
+      upgrade_all: yes
 
   tags:
     - homebrew
