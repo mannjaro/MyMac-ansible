@@ -1,0 +1,10 @@
+---
+- block:
+  - name: git configure
+    git_config: 
+      name: "{{ item.name }}"
+      scope: "{{ item.scope }}"
+      value: "{{ item.value }}"
+    with_items: "{{ git_configs }}"
+  tags:
+    - gitconf
