@@ -1,0 +1,19 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Atom One Dark",
+  "editor.minimap.renderCharacters": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.pythonPath": "/Users/manjaro/.anyenv/envs/pyenv/versions/3.8.3/bin/python",
+  "python.languageServer": "Microsoft",
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+  "terminal.integrated.fontFamily": "Cica",
+  "terminal.integrated.fontSize": 14,
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+  },
+  "editor.tabSize": 2,
+}

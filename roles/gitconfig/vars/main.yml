@@ -1,0 +1,5 @@
+git_configs:
+  - {name: user.name, scope: global, value: mannjaro}
+  - {name: user.email, scope: global, value: takuson2525zt@gmail.com}
+  - {name: color.ui, scope: global, value: auto}
+  - {name: core.editor, scope: global, value: "vim"}
