@@ -4,6 +4,7 @@ homebrew_taps:
   - homebrew/core
 homebrew_packages:
   - anyenv
+  - bat
   - docker
   - envchain
   - fish

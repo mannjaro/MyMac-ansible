@@ -13,6 +13,7 @@ homebrew_cask_packages:
   - iterm2
   - java
   - jetbrains-toolbox
+  - karabiner-elements
   - mendeley
   - slack
   - unshaky
