@@ -3,6 +3,8 @@
     git:
       repo: https://github.com/mannjaro/dotfiles.git
       dest: ~/.dotfiles
+      force: yes
+      version: master
   
   tags:
     dotfiles
