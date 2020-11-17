@@ -11,7 +11,7 @@ homebrew_cask_packages:
   - google-chrome
   - google-japanese-ime
   - iterm2
-  - java
+  - oracle-jdk
   - jetbrains-toolbox
   - karabiner-elements
   - mendeley
