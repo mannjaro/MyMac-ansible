@@ -1,6 +1,6 @@
 #! /bin/bash
 
-ANSIBLE_PATH = ~/workspace/settings/mac-ansible
+ANSIBLE_PATH=~/workspace/settings/mac-ansible
 
 ## xcode command line tools
 xcode-select --install
@@ -13,7 +13,7 @@ brew update
 brew install ansible
 
 # checkout repo
-git clone https://github.com/mannjaro/MyMac-ansible.git
+git clone https://github.com/mannjaro/MyMac-ansible.git ${ANSIBLE_PATH}
 
 # exec ansible
 cd ${ANSIBLE_PATH}
