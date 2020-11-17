@@ -1,6 +1,6 @@
 homebrew_taps:
   - homebrew/cask
-  # - homebrew/cask-font
+  - homebrew/cask-fonts
   - homebrew/core
 homebrew_packages:
   - anyenv
